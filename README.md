@@ -2,7 +2,7 @@ A Basic Rails Blog
 ------------------
 
 Purpose
-=======
+======= 
 
 This is a learning project for NSS Cohort 2. I am following along while the class writes a blog together.
 
