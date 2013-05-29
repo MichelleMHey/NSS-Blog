@@ -14,7 +14,7 @@ GEM
       rack-cache (~> 1.2)
       rack-test (~> 0.6.1)
       sprockets (~> 2.2.1)
-    activemodel (3.2.13)
+    activemodel (3.2.13) 
       activesupport (= 3.2.13)
       builder (~> 3.0.0)
     activerecord (3.2.13)
