@@ -1,0 +1,8 @@
+<h1>All Posts</h1>
+
+<%= Post.count %>
+<ul>
+  <%- @posts.each do |post| %>
+    <li><%= post.title %></li>
+  <%- end %>
+</ul>
